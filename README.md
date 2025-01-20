@@ -1,4 +1,4 @@
-# Home Assistant: Set Inovelli Blue LED Notification (ZHA)
+# Home Assistant: Set Inovelli Blue LED Notification (ZHA) script
 A Home Assistant script allowing you to define custom presets for the LED notifications on the Home Assistant Blue switches using ZHA
 
 ## Pre-requisites 
