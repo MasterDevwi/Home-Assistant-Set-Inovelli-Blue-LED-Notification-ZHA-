@@ -1,5 +1,4 @@
-# Adapted from nwithan8's script, but with added support for custom presets and other logic
-# Source: https://community.home-assistant.io/t/zha-inovelli-blue-series-2-1-switch-led-notification-script/579927
+# I originally made this long ago and decided to share it. I think parts of it were adapted from nwithan8's script (source: https://community.home-assistant.io/t/zha-inovelli-blue-series-2-1-switch-led-notification-script/579927)
 
 fields:
   target:
